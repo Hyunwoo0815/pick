@@ -4,4 +4,6 @@ Allow: /
 # Sitemap
 Sitemap: https://item.koreareality.co.kr/sitemap.xml
 
+#DaumWebMasterTool:e4a833d0c6311f6df3bae9ac6df9eb2e013b3afc59538c1e0d811de0efaf8cf0:LblemQyly+/4nijlL9GF7g==
+
 
